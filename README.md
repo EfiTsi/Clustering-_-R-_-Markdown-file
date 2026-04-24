@@ -1,2 +1,2 @@
-# Clustering-_-R-_-Markdown-file
-Q10_creating a repository README.md file
+# Example of README.md
+*Αυτό το repository file αφορά την ερώτηση 10 του τεστ αξιολόγησης της ενότητας συσταδοποίησης, του μαθήματος στατιστική στην R.* 
